@@ -25,4 +25,7 @@ Emil Karlsson, 8707172956, ek222mw.
 ## Tidsplanering
 https://docs.google.com/a/student.lnu.se/spreadsheet/ccc?key=0AvWm-6qoMuR7dHdVRU9hM29NYnFiSnBSdVNtcTluRHc#gid=0
 
+## Länk till github repro
+https://github.com/ek222mw/ProjektskelettHT13/blob/master/doc/Projektbeskrivning.md
+
 
