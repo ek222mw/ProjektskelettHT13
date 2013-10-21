@@ -22,8 +22,7 @@ Kommer att försöka göra allt i så lite begränsning som möjligt. Webb shop 
 Kommer väll att använda mycket av det vi lärt oss hittils så det kommer ju att vara likt min första webbsida men endån inte för att jag kommer att göra om den helt.
 ## Medlemmar
 Emil Karlsson, 8707172956, ek222mw.
-## *Förändra*
-*Lägg gärna till egna rubriker eller förändra strukturen så att den passar ert projekt.*
 ## Tidsplanering
-*Länka till tidsplaneringen här, eller fäll in som en bild.*
+https://docs.google.com/a/student.lnu.se/spreadsheet/ccc?key=0AvWm-6qoMuR7dHdVRU9hM29NYnFiSnBSdVNtcTluRHc#gid=0
+
 
