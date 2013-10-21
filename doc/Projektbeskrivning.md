@@ -3,7 +3,7 @@ Projektmedlemmar:
 [ek222mwStudent](https://github.com/ek222mw), [ek222mw](https://github.com/ek222mw), [ek222mw](https://github.com/ek222mw)
 
 
-[Exekverbar version av projektet](https://github.com/ek222mw/ProjektskelettHT13/edit/master/doc/Projektbeskrivning.md)
+[Exekverbar version av projektet](https://github.com/ek222mw/ProjektskelettHT13/blob/master/doc/Dragstra%20Sports%20Promotion)
 
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
 
