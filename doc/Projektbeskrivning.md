@@ -1,9 +1,9 @@
-# Webbsida Planet X Scandinavia
+# Webbsida Dragstra Sports Promotion
 Projektmedlemmar: 
 [ek222mwStudent](https://github.com/ek222mw), [ek222mw](https://github.com/ek222mw), [ek222mw](https://github.com/ek222mw)
 
 
-[Exekverbar version av projektet](http://ek222mw.github.io/Planet_X_Scandinavia)
+[Exekverbar version av projektet](https://github.com/ek222mw/ProjektskelettHT13/edit/master/doc/Projektbeskrivning.md)
 
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
 
@@ -16,7 +16,7 @@ Det var dem som frågade mig om jag kunde göra en webbsida åt dem.
 Det kommer att användas de senaste teknikerna av html och css, alltså html 5 och css3.
 ## Begränsningar
 *Eventuella begränsningar i projektet. Kanske kommer viss funktionalitet att fejkas eftersom ni inte besitter kunskaper att skapa detta ännu?*
-Kommer att försöka göra allt i så lite begränsning som möjligt. Webb shop är en grejj som möjligen kommer att fejkas eftersom vi inte gjort en sådan tidigare.
+Kommer att försöka göra allt i så lite begränsning som möjligt. Webb shop är en grej som möjligen kommer att fejkas eftersom vi inte gjort en sådan tidigare.
 ## Förstudier
 *Eventuellt redan existerande prototyper, användarundersökningar etc. Kanske gör ni om en befintlig webbplats? Beskriv då det här.*
 Kommer väll att använda mycket av det vi lärt oss hittils så det kommer ju att vara likt min första webbsida men endån inte för att jag kommer att göra om den helt.
