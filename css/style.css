@@ -1,0 +1,52 @@
+ /* Body Attribut */
+    body{margin: 1em 0 0 1em; padding: 0;font-family:times; font-size:16px;}
+    /* Box attribut */
+    #box1{width: 200px; padding: 10px; margin-right: auto; margin-left:auto; text-align: center;}
+    #box2{width: 200px; padding: 10px;}
+    /* Kolumn attribut */
+    #col1{background:#cc99cc;width:35em;padding: 0.5em; border-right: 1px solid #000000; margin-left:10.7em;}
+    #col1 li{list-style: none; padding: 0.2em 0.1em;}
+    #col2{background:#ffccff;width: 12em; float: left; padding: 0.5em; border-right: 1px solid #000000;}
+    /* Rubriks attribut */
+    h1{font-size: 24px; color:#666633;}
+    h2{font-size: 22px; color:#666633;}
+    h3{font-size: 20px; color:#666633;}
+    h4{font-size: 18px; color:red;}
+    /* Foot och Header attribut */
+    #footer{clear: both;padding-top:50px;background:#cc99cc;width:100%;padding: 1em; solid:#999999;border:1px;}
+    #header{solid:#999999;clear:both; margin:0 auto; text-align: center;}
+/* Kontainer attribut */
+#container ul{width: 12em; margin: 0; padding: 0;solid: #ffffff;}
+#container li{list-style: none; padding: 0.2em 0.1em;}
+#container ul a{text-decoration: none; padding:0; margin:0;}
+#container a:link, visited{}
+#container a:hover{background: #ffcc66;}
+#container{ solid: #000000; text-align:center; float:left;width:1000px;}
+/* Navigation attribut */
+#navigation ul a{text-decoration: none; padding:0; margin:0;}
+#navigation a:link{color:#000000 ;}
+#navigation a:visited{color: white;}
+#navigation ul{width: 10em; margin: 0; padding: 0; background: #CC99CC; border: 2px solid #ffffff;}
+#navigation a{display:block; }
+#navigation li{list-style: none; padding: 0.2em 0.1em;}
+#navigation li:hover{background:#ffcc66;}
+#navigation .active a{background-color: gray;}
+#navigation{float: left; width: 10.4em; border: 1px solid #000000;clear:both;}
+#navigation li a {background: none no-repeat right center;background-image:url('../pics/sprite.png');}
+#navigation li a.start{background-position: 120px -48px;}
+#navigation li a:hover.start{;background: none no-repeat; background-image:url('../pics/sprite.png');background-position: 120px 0px; }
+#navigation li a.presentation{background-position: 120px -240px;}
+#navigation li a:hover.presentation{background: none no-repeat; background-image:url('../pics/sprite.png');background-position: 120px -192px;}
+#navigation li a.laboration{background-position: 120px -145px;}
+#navigation li a:hover.laboration{background: none no-repeat; background-image:url('../pics/sprite.png');background-position: 120px -97px; }
+#navigation li a.kontakt{background-position: 120px -337px;}
+#navigation li a:hover.kontakt{background: none no-repeat; background-image:url('../pics/sprite.png');background-position: 120px -289px; }
+/* Bild och Video attribut */
+img{border: 1px solid white;float:center;}
+.video {position: relative; padding-bottom: 56.25%; /* 16:9 */ padding-top:1px; float: right;}
+    /* Background:#ffccff; Background aside:#4f7b88; Background:#cc99cc; */
+/* Kommentarers attribut */
+Article Article{font:times; color:red;}
+/* Kontaktkorts attribut */
+hcard-Emil-Karlsson{clear:both;}
+input{width: 180px;}
