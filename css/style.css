@@ -14,7 +14,7 @@
     h4{font-size: 18px; color:red;}
     /* Foot och Header attribut */
     #footer{clear: both;padding-top:50px;background-color:gray;width:991px;padding: 1em; solid:#999999;border:1px;}
-    #header{height:200px;width:1023px;background: none no-repeat;solid:#999999;clear:both;background-color:black; background-image:url('../pics/Header_Dragstra.jpeg');background-position:center;}
+    #header{height:200px;width:1112px;background: none no-repeat;solid:#999999;clear:both;background-color:black; background-image:url('../pics/Header_Dragstra.jpeg');background-position:center;}
 /* Kontainer attribut */
 #container ul{width: 12em; margin: 0; padding: 0;solid: #ffffff;}
 #container li{list-style: none; padding: 0.2em 0.1em;}
