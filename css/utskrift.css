@@ -1,0 +1,25 @@
+body{margin: 1em 0 0 1em; padding: 0;font-family:times; font-size:16px; background-color:hidden;}
+/* Foot och Header attribut */
+     #footer{clear: both;height:50px;padding-top:50px;width:100%;padding: 1em; solid:#999999;}
+    #header{height:150px;padding-top:60px;width:900;padding: 1em; solid:#999999; background-image:hidden;}
+    #header a{display:none;}
+     /* Kolumn attribut */
+    #col1{width:35em;padding: 0.5em; border-right: 1px solid #000000; margin-left:10.7em;}
+    #col1 li{list-style: none; padding: 0.2em 0.1em;}
+    #col2{width: 12em; float: left; padding: 0.5em; solid: #000000;}
+    /* Kontainer attribut */
+#container a{display:none;}    
+#container ul{width: 12em; margin: 0; padding: 0;solid: #ffffff; display:none;}
+#container li a{list-style: none; padding: 0.2em 0.1em; display:none;}
+#container ul a{text-decoration: none; padding:0; margin:0; display:none;}
+#container a:link:after, a:visited:after { content:" [" attr(href) "] "; }
+#container{ float: left; width: 48em;solid: #000000; background-color:hidden; background-image:hidden;}
+/* Navigation attribut */
+#navigation ul a{text-decoration: none; padding:0; margin:0; display:none;}
+#navigation ul{width: 10em; margin: 0; padding: 0; solid: #ffffff; display:none;}
+#navigation a{display:block; display:none;}
+#navigation li{list-style: none; padding: 0.2em 0.1em; display:none;}
+#navigation .active a{background-color: gray; display:none;}
+#navigation{float: left; width: 10.4em;solid: #000000; display:none;}
+.video {position: relative; padding-bottom: 56.25%; /* 16:9 */ padding-top:1px; float: right; display:none;}
+    /* Background:#ffccff; Background aside:#4f7b88; Background:#cc99cc; */

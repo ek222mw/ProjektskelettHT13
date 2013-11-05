@@ -1,52 +1,80 @@
   <!doctype html>
 <html lang="sv">
     <head>
-<meta charset="utf-8" name="viewport" content="width=device-width" initial-scale=1.0 maximum-scale=1.0 user-scalable=0 />        <title>Kontakt</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />        <title>Kontakt</title>
         <link rel="stylesheet" type="text/css" href="../css/style.css" media="screen and (min-width:481px)" />
         <link rel="stylesheet" type="text/css" href="../css/sp.css" media="screen and (max-width:481px)" />
-        <link rel="stylesheet" type="text/css" href="../css/Utskrift.css" media="print" />
+        <link rel="stylesheet" type="text/css" href="../css/utskrift.css" media="print" />
         <link rel="shortcut icon" href="../css/pics/favicon.ico" type="image/x-icon" />
-        <link rel="apple-touch-icon" href="../css/pics/apple-touch-icon-114x114-precomposed.png" />
+        <link rel="apple-touch-icon" href="../pics/apple_p.png" />
     </head>
     <body>
+    <Header id="header">
+    </Header>
     <Nav id="navigation">
-    <h1>Länkar till mina andra projekt</h1>
+    <Article>
+    <h1>Meny</h1>
     <ul>
-    <li><a href="index.html">Start</a></li>
-    <li><a href="om_oss.html">Om oss</a></li>
-    <li><a href="Pages/laborationer.html">laborationer</a></li>
-    <li class="active"><a href="kontakt.html">Kontakt</a></li>
+    <li class="active"><a class="start" href="index.html">Start</a></li>
+    <li><a class="presentation" href="om_oss.html">Om oss</a></li>
+    <li><a class="laboration" href="Senaste_nytt.html">Senaste Nytt</a></li>
+    <li><a class="kontakt" href="kontakt.html">Kontakt</a></li>
+    <li><a class="presentation" href="Triathlon_Coaching.html">Triathlon Coaching</a></li>
+    <li><a class="presentation" href="Lifestyle_Coaching.html">Lifestyle Coaching</a></li>
+    <li><a class="presentation" href="Retul_bike.html">Retül Bike Fitting Utrustning</a></li>
     </ul>
-    </Nav><br><br><br><br><br><br><br><br><br><br><br>
+    </Article>
+    </Nav>
     <Main id="container">
-    <form id="form" name="form" method="post" action="MAILTO:annie__karlsson@hotmail.com">
-    <fieldset style="width 450px;">
-    <legend>Fråga</legend>
-    <label for="Fraga">Ärendetyp</label>
-    <select name="Fråga" id="Fraga">
-    <option>Fråga</option>
-    <option value="Svar">svar</option>
-    </select><br>
-    Rubrik:<input type="text" name="Rubrik" id="Rubrik"/><br>
-    Fråga:<textarea name="Fraga" id="Fråga" cols="20" rows="2" ></textarea><br></fieldset>
-     <fieldset style="width 450px;">
-    <legend>Information om oss</legend>
-    <label for="mail">Kontakta mig via mail</label>
-    <input type="email" name="Kontakta mig via mail" id="mail" value="annie__karlsson@hotmail.com"/><br>
-     <label for="tel">Kontakta mig via telefon</label>
-    <input type="tel" name="Kontakta mig via telefon" id="tel" value="0704870873" /><br>
-    </fieldset>
-    <input type="submit" name="Skicka fraga" id="Skicka_fraga" value="Skicka fråga"/>
-    </form>
+<!-- Begin myContactForm.com Form HTML -->
+<form name="contactForm" id="contactForm" method="post"  action="http://www.mycontactform.com/sendform/sendform.php" style="width: 100%; border: 0px solid #000000; margin: 0; padding: 0; background-color: #FFFFFF;">
+<table>
+ <tr style="margin: 0; padding: 0;">
+  <td style="background-color: #FFFFFF; border-bottom: 0px solid #D8D8D8; padding: 5px; clear: left; margin: 0;">
+  <label for="subject" style="float: left; width: 30%; padding-top: 4px; font-family: Arial; color: #000000; font-size: 14px;">Subject: <span style="color: #FF0000">*</span></label>
+  <input name="subject" type="text" id="subject" size="20" maxlength="100" style="font-family: Arial; font-size: 14px; color: #000000; background-color: #FFFFFF; border: 1px solid #000000; padding: 2px;" required="required" />
+  </td>
+ </tr>
+ <tr style="margin: 0; padding: 0;">
+  <td style="background-color: #EFEFEF; border-bottom: 0px solid #D8D8D8; padding: 5px; clear: left; margin: 0;">
+  <label for="email" style="float: left; width: 30%; padding-top: 4px; font-family: Arial; color: #000000; font-size: 14px;">E-mail Address: <span style="color: #FF0000">*</span></label>
+  <input name="email" type="email" id="email" size="20" maxlength="100" required="required" style="font-family: Arial; font-size: 14px; color: #000000; background-color: #FFFFFF; border: 1px solid #000000; padding: 2px;" />
+  </td>
+ </tr>
+ <tr style="margin: 0; padding: 0;">
+  <td style="background-color: #FFFFFF; border-bottom: 0px solid #D8D8D8; padding: 5px; clear: left; margin: 0;">
+  <label for="q1" style="float: left; width: 30%; padding-top: 4px; font-family: Arial; color: #000000; font-size: 14px;">Fråga: </label> <textarea name="q1" id="q1" cols="30" rows="3" style="font-family: Arial; font-size: 14px; color: #000000; background-color: #FFFFFF; border: 1px solid #000000; padding: 2px;" >Ange din fundering här!</textarea>
+  </td>
+ </tr>
+<tr style="margin: 0; padding: 0;">
+  <td style="background-color: #FFFFFF; padding: 5px; clear: left; margin: 0;">
+<hr style="color: #D8D8D8; background-color: #D8D8D8; height: 1px;" />
+ </td>
+ </tr>
+<tr style="margin: 0; padding: 0;">
+  <td style="background-color: #FFFFFF; padding: 5px; clear: left; margin: 0;">
+   <input name="user" type="hidden" id="user" value="Krochen" />
+   <input name="formid" type="hidden" id="formid" value="407631" />
+   <input name="submit" type="submit" value="Submit" style="font-family: ; font-size: ; color: ; background-color: ; border:  solid ; padding: 2px;" />
+   <input name="reset" type="reset" value="Reset" style="font-family: ; font-size: ; color: ; background-color: ; border:  solid ; padding: 2px;" />
+ </td>
+ </tr>
+<tr style="margin: 0; padding: 0;">
+  <td style="background-color: #FFFFFF; padding: 5px; clear: left; margin: 0;">
+<span style="color: #FF0000">*</span> <span style="font-family: Arial; color: #000000; font-size: 14px;">Required</span> <span style="float: right; font-family: Arial; color: #000000; font-size: 14px;"><a href="http://www.mycontactform.com" target="_blank" title="Link to myContactForm.com">Free Contact Form</a></span> </td>
+ </tr>
+</table>
+</form>
+<!-- End myContactForm.com Form HTML -->
     </Main>
     <Footer id="footer">
-      <div id="hcard-Annie-Karlsson" class="vcard">
+      <div id="hcard-Annie-Karlsson" class="vcard"></div>
  <span class="fn n">
     <span class="given-name">Annie</span>
   <span class="family-name">Karlsson</span>
 </span>
  <a class="email" href="mailto:annie__karlsson@hotmail.com">annie__karlsson@hotmail.com</a>
- <div class="adr">
+ <div class="adr"></div>
   <div class="street-address">Tålebo 301</div>
   <span class="locality">Blomstermåla</span>, 
   <span class="postal-code">384 91</span>
